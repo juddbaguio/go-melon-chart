@@ -1,0 +1,807 @@
+{
+	"summary": "DAILY",
+	"date": "2022-August-22",
+	"time": "23:00",
+	"records": [
+		{
+			"id": 35454425,
+			"rank": 1,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/11/565/11011565_20220801102637_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Attention 재생",
+			"artist": "NewJeans - 페이지 이동",
+			"album": "NewJeans 1st EP 'New Jeans' - 페이지 이동"
+		},
+		{
+			"id": 35542908,
+			"rank": 2,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/33/394/11033394_20220819101829_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Pink Venom 재생",
+			"artist": "BLACKPINK - 페이지 이동",
+			"album": "Pink Venom - 페이지 이동"
+		},
+		{
+			"id": 35454426,
+			"rank": 3,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/11/565/11011565_20220801102637_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Hype boy 재생",
+			"artist": "NewJeans - 페이지 이동",
+			"album": "NewJeans 1st EP 'New Jeans' - 페이지 이동"
+		},
+		{
+			"id": 35383397,
+			"rank": 4,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/00/171/11000171_20220708163659_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "그때 그 순간 그대로 (그그그) 재생",
+			"artist": "WSG워너비 (가야G) - 페이지 이동",
+			"album": "WSG워너비 1집 - 페이지 이동"
+		},
+		{
+			"id": 35504734,
+			"rank": 5,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/23/224/11023224_20220804182919_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "FOREVER 1 재생",
+			"artist": "소녀시대 (GIRLS' GENERATION) - 페이지 이동",
+			"album": "FOREVER 1 - The 7th Album - 페이지 이동"
+		},
+		{
+			"id": 34847378,
+			"rank": 6,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/09/179/10909179_20220405103521_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "LOVE DIVE 재생",
+			"artist": "IVE (아이브) - 페이지 이동",
+			"album": "LOVE DIVE - 페이지 이동"
+		},
+		{
+			"id": 35383398,
+			"rank": 7,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/00/171/11000171_20220708163659_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "보고싶었어 재생",
+			"artist": "WSG워너비 (4FIRE) - 페이지 이동",
+			"album": "WSG워너비 1집 - 페이지 이동"
+		},
+		{
+			"id": 35546497,
+			"rank": 8,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/34/298/11034298_20220822101843_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "After LIKE 재생",
+			"artist": "IVE (아이브) - 페이지 이동",
+			"album": "After LIKE - 페이지 이동"
+		},
+		{
+			"id": 35413033,
+			"rank": 9,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/04/992/11004992_20220722175827_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "SNEAKERS 재생",
+			"artist": "ITZY (있지) - 페이지 이동",
+			"album": "CHECKMATE - 페이지 이동"
+		},
+		{
+			"id": 35333345,
+			"rank": 10,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/90/161/10990161_20220623203136_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "POP! 재생",
+			"artist": "나연 (TWICE) - 페이지 이동",
+			"album": "IM NAYEON - 페이지 이동"
+		},
+		{
+			"id": 35485544,
+			"rank": 11,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/11/565/11011565_20220801102637_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Cookie 재생",
+			"artist": "NewJeans - 페이지 이동",
+			"album": "NewJeans 1st EP 'New Jeans' - 페이지 이동"
+		},
+		{
+			"id": 34754292,
+			"rank": 12,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/384/10890384_20220314111504_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "TOMBOY 재생",
+			"artist": "(여자)아이들 - 페이지 이동",
+			"album": "I NEVER DIE - 페이지 이동"
+		},
+		{
+			"id": 34927767,
+			"rank": 13,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/25/762/10925762_20220419152007_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "정이라고 하자 (Feat. 10CM) 재생",
+			"artist": "BIG Naughty (서동현) - 페이지 이동",
+			"album": "정이라고 하자 - 페이지 이동"
+		},
+		{
+			"id": 35361345,
+			"rank": 14,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/95/477/10995477_20220701165440_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "그라데이션 재생",
+			"artist": "10CM - 페이지 이동",
+			"album": "5.3 - 페이지 이동"
+		},
+		{
+			"id": 34943312,
+			"rank": 15,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/29/486/10929486_20220422151852_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "나의 X에게 재생",
+			"artist": "경서 - 페이지 이동",
+			"album": "나의 X에게 - 페이지 이동"
+		},
+		{
+			"id": 34657844,
+			"rank": 16,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/71/162/10871162_20220217162422_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사랑인가 봐 재생",
+			"artist": "멜로망스 - 페이지 이동",
+			"album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙) - 페이지 이동"
+		},
+		{
+			"id": 34997078,
+			"rank": 17,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/37/474/10937474_20220428225312_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "That That (prod. \u0026 feat. SUGA of BTS) 재생",
+			"artist": "싸이 (PSY) - 페이지 이동",
+			"album": "싸다9 - 페이지 이동"
+		},
+		{
+			"id": 35238220,
+			"rank": 18,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/72/706/10972706_20220708111110_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Girls 재생",
+			"artist": "aespa - 페이지 이동",
+			"album": "Girls - The 2nd Mini Album - 페이지 이동"
+		},
+		{
+			"id": 34930368,
+			"rank": 19,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/26/502/10926502_20220420071020_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Love story 재생",
+			"artist": "볼빨간사춘기 - 페이지 이동",
+			"album": "Seoul - 페이지 이동"
+		},
+		{
+			"id": 35238221,
+			"rank": 20,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/72/706/10972706_20220708111110_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "도깨비불 (Illusion) 재생",
+			"artist": "aespa - 페이지 이동",
+			"album": "Girls - The 2nd Mini Album - 페이지 이동"
+		},
+		{
+			"id": 34787226,
+			"rank": 21,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/97/407/10897407_20220323150744_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "내가 아니라도 재생",
+			"artist": "주호 - 페이지 이동",
+			"album": "내가 아니라도 - 페이지 이동"
+		},
+		{
+			"id": 35009233,
+			"rank": 22,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/39/458/10939458_20220502123814_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "FEARLESS 재생",
+			"artist": "LE SSERAFIM (르세라핌) - 페이지 이동",
+			"album": "FEARLESS - 페이지 이동"
+		},
+		{
+			"id": 34875621,
+			"rank": 23,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/16/904/10916904_20220412101049_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "LOVE me 재생",
+			"artist": "BE'O (비오) - 페이지 이동",
+			"album": "LOVE me - 페이지 이동"
+		},
+		{
+			"id": 34061322,
+			"rank": 24,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/35/654/10735654_20211008114339_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사랑은 늘 도망가 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "신사와 아가씨 OST Part.2 - 페이지 이동"
+		},
+		{
+			"id": 34845949,
+			"rank": 25,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/08/834/10908834_20220404174407_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "봄여름가을겨울 (Still Life) 재생",
+			"artist": "BIGBANG (빅뱅) - 페이지 이동",
+			"album": "봄여름가을겨울 (Still Life) - 페이지 이동"
+		},
+		{
+			"id": 34349913,
+			"rank": 26,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/98/794/10798794_20211201113915_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "ELEVEN 재생",
+			"artist": "IVE (아이브) - 페이지 이동",
+			"album": "ELEVEN - 페이지 이동"
+		},
+		{
+			"id": 34431086,
+			"rank": 27,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/16/959/10816959_20211217144957_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "취중고백 재생",
+			"artist": "김민석 (멜로망스) - 페이지 이동",
+			"album": "취중고백 - 페이지 이동"
+		},
+		{
+			"id": 35252996,
+			"rank": 28,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/75/276/10975276_20220603165713_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "해요 (2022) 재생",
+			"artist": "#안녕 - 페이지 이동",
+			"album": "해요 (2022) - 페이지 이동"
+		},
+		{
+			"id": 33496587,
+			"rank": 29,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/10/525/10610525_20210518143433_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "다정히 내 이름을 부르면 재생",
+			"artist": "경서예지 - 페이지 이동",
+			"album": "다정히 내 이름을 부르면 (경서예지 x 전건호) - 페이지 이동"
+		},
+		{
+			"id": 34864406,
+			"rank": 30,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/44/485/10844485_20220407163235_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "That's Hilarious 재생",
+			"artist": "Charlie Puth - 페이지 이동",
+			"album": "That's Hilarious - 페이지 이동"
+		},
+		{
+			"id": 34908740,
+			"rank": 31,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "우리들의 블루스 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 35353251,
+			"rank": 32,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/93/611/10993611_20220629102946_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "열이올라요 (Heart Burn) 재생",
+			"artist": "선미 - 페이지 이동",
+			"album": "열이올라요 (Heart Burn) - 페이지 이동"
+		},
+		{
+			"id": 34100776,
+			"rank": 33,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/43/373/10743373_20211018161315_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "내 기쁨은 너가 벤틀리를 끄는 거야 재생",
+			"artist": "김승민 - 페이지 이동",
+			"album": "PROTOTYPE RESEARCH #0063 - 페이지 이동"
+		},
+		{
+			"id": 4446485,
+			"rank": 34,
+			"albumImg": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "너의 모든 순간 재생",
+			"artist": "성시경 - 페이지 이동",
+			"album": "별에서 온 그대 OST Part.7 - 페이지 이동"
+		},
+		{
+			"id": 35536571,
+			"rank": 35,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/31/803/11031803_20220817140718_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "잠수이별 (Prod. 코드 쿤스트) 재생",
+			"artist": "우원재 - 페이지 이동",
+			"album": "잠수이별 - 페이지 이동"
+		},
+		{
+			"id": 34772475,
+			"rank": 36,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/94/554/10894554_20220321100622_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Feel My Rhythm 재생",
+			"artist": "Red Velvet (레드벨벳) - 페이지 이동",
+			"album": "‘The ReVe Festival 2022 - Feel My Rhythm’ - 페이지 이동"
+		},
+		{
+			"id": 35484543,
+			"rank": 37,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/17/954/11017954_20220729152931_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "새벽에 걸려온 너의 전화는 재생",
+			"artist": "한동근 - 페이지 이동",
+			"album": "미련을 말하는 - 페이지 이동"
+		},
+		{
+			"id": 33658563,
+			"rank": 38,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/46/395/10646395_20210707141710_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "STAY 재생",
+			"artist": "The Kid LAROI - 페이지 이동",
+			"album": "Stay - 페이지 이동"
+		},
+		{
+			"id": 33480898,
+			"rank": 39,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/07/796/10607796_20210513201807_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "신호등 재생",
+			"artist": "이무진 - 페이지 이동",
+			"album": "신호등 - 페이지 이동"
+		},
+		{
+			"id": 35505810,
+			"rank": 40,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/23/572/11023572_20220805140858_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사랑한다고 말해줘 재생",
+			"artist": "탑현 - 페이지 이동",
+			"album": "사랑한다고 말해줘 - 페이지 이동"
+		},
+		{
+			"id": 34817660,
+			"rank": 41,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/03/658/10903658_20220329185034_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "아무래도 난 재생",
+			"artist": "주시크 (Joosiq) - 페이지 이동",
+			"album": "아무래도 난 - 페이지 이동"
+		},
+		{
+			"id": 35388184,
+			"rank": 42,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/00/863/11000863_20220711113237_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈) 재생",
+			"artist": "이석훈 - 페이지 이동",
+			"album": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈) - 페이지 이동"
+		},
+		{
+			"id": 34752700,
+			"rank": 43,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/89/981/10889981_20220311110820_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "GANADARA (Feat. 아이유) 재생",
+			"artist": "박재범 - 페이지 이동",
+			"album": "GANADARA - 페이지 이동"
+		},
+		{
+			"id": 34626109,
+			"rank": 44,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/63/559/10863559_20220214160739_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "INVU 재생",
+			"artist": "태연 (TAEYEON) - 페이지 이동",
+			"album": "INVU - The 3rd Album - 페이지 이동"
+		},
+		{
+			"id": 35177030,
+			"rank": 45,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/60/568/10960568_20220518153132_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "늦은 밤 헤어지긴 너무 아쉬워 재생",
+			"artist": "케이시 (Kassy) - 페이지 이동",
+			"album": "LOVE \u0026 HATE - 페이지 이동"
+		},
+		{
+			"id": 34754299,
+			"rank": 46,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/384/10890384_20220314111504_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "MY BAG 재생",
+			"artist": "(여자)아이들 - 페이지 이동",
+			"album": "I NEVER DIE - 페이지 이동"
+		},
+		{
+			"id": 34701627,
+			"rank": 47,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/80/544/10880544_20220225141002_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "듣고 싶을까 재생",
+			"artist": "MSG워너비(M.O.M) - 페이지 이동",
+			"album": "듣고 싶을까 - 페이지 이동"
+		},
+		{
+			"id": 35215215,
+			"rank": 48,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/67/172/10967172_20220525095420_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "I Ain't Worried 재생",
+			"artist": "OneRepublic - 페이지 이동",
+			"album": "탑건 : 매버릭 (Top Gun: Maverick) (영화 OST) - 페이지 이동"
+		},
+		{
+			"id": 33655994,
+			"rank": 49,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/45/654/10645654_20210706155154_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Weekend 재생",
+			"artist": "태연 (TAEYEON) - 페이지 이동",
+			"album": "Weekend - 페이지 이동"
+		},
+		{
+			"id": 35008524,
+			"rank": 50,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "다시 만날 수 있을까 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 32872978,
+			"rank": 51,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/104/79/150/10479150_20200918102847_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Dynamite 재생",
+			"artist": "방탄소년단 - 페이지 이동",
+			"album": "Dynamite (DayTime Version) - 페이지 이동"
+		},
+		{
+			"id": 33487342,
+			"rank": 52,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/09/232/10609232_20210517155130_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Next Level 재생",
+			"artist": "aespa - 페이지 이동",
+			"album": "Next Level - 페이지 이동"
+		},
+		{
+			"id": 35383399,
+			"rank": 53,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/00/171/11000171_20220708163659_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Clink Clink (클링 클링) 재생",
+			"artist": "WSG워너비 (오아시소) - 페이지 이동",
+			"album": "WSG워너비 1집 - 페이지 이동"
+		},
+		{
+			"id": 35526685,
+			"rank": 54,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/29/030/11029030_20220812105653_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "통화연결음 재생",
+			"artist": "보라미유 - 페이지 이동",
+			"album": "통화연결음 - 페이지 이동"
+		},
+		{
+			"id": 35371300,
+			"rank": 55,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/97/520/10997520_20220705113945_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "I LOVE U 재생",
+			"artist": "WINNER - 페이지 이동",
+			"album": "HOLIDAY - 페이지 이동"
+		},
+		{
+			"id": 33978183,
+			"rank": 56,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/16/399/10716399_20210916173429_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "너를 생각해 재생",
+			"artist": "주시크 (Joosiq) - 페이지 이동",
+			"album": "너를 생각해 - 페이지 이동"
+		},
+		{
+			"id": 35331586,
+			"rank": 57,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/89/806/10989806_20220623153505_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Left and Right (Feat. Jung Kook of BTS) 재생",
+			"artist": "Charlie Puth - 페이지 이동",
+			"album": "Left and Right (Feat. Jung Kook of BTS) - 페이지 이동"
+		},
+		{
+			"id": 34538515,
+			"rank": 58,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/42/611/10842611_20220117110002_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "SMILEY (Feat. BIBI) 재생",
+			"artist": "YENA (최예나) - 페이지 이동",
+			"album": "ˣ‿ˣ (SMiLEY) - 페이지 이동"
+		},
+		{
+			"id": 33061995,
+			"rank": 59,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/105/18/234/10518234_20210216102853_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "밤하늘의 별을(2020) 재생",
+			"artist": "경서 - 페이지 이동",
+			"album": "밤하늘의 별을(2020) - 페이지 이동"
+		},
+		{
+			"id": 35275022,
+			"rank": 60,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/80/018/10980018_20220610121447_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "고백하는 취한밤에 (Prod. 2soo) 재생",
+			"artist": "임재현 - 페이지 이동",
+			"album": "고백하는 취한밤에 - 페이지 이동"
+		},
+		{
+			"id": 34481680,
+			"rank": 61,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/27/816/10827816_20211229143632_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "드라마 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "조각집 - 페이지 이동"
+		},
+		{
+			"id": 33625988,
+			"rank": 62,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/38/275/10638275_20210625172521_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "바라만 본다 재생",
+			"artist": "MSG워너비(M.O.M) - 페이지 이동",
+			"album": "MSG워너비 1집 - 페이지 이동"
+		},
+		{
+			"id": 3414749,
+			"rank": 63,
+			"albumImg": "https://cdnimg.melon.co.kr/cm/album/images/012/86/252/1286252_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "내 손을 잡아 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "최고의 사랑 OST Part.4 - 페이지 이동"
+		},
+		{
+			"id": 30962526,
+			"rank": 64,
+			"albumImg": "https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "모든 날, 모든 순간 (Every day, Every Moment) 재생",
+			"artist": "폴킴 - 페이지 이동",
+			"album": "'키스 먼저 할까요?' OST Part.3 - 페이지 이동"
+		},
+		{
+			"id": 32508053,
+			"rank": 65,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/104/12/319/10412319_20200403103006_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "이제 나만 믿어요 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "내일은 미스터트롯 우승자 특전곡 - 페이지 이동"
+		},
+		{
+			"id": 34256568,
+			"rank": 66,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/75/252/10775252_20211112142804_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom) 재생",
+			"artist": "sokodomo - 페이지 이동",
+			"album": "쇼미더머니 10 Episode 2 - 페이지 이동"
+		},
+		{
+			"id": 35434206,
+			"rank": 67,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/08/450/11008450_20220719111811_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "BEAUTIFUL MONSTER 재생",
+			"artist": "STAYC(스테이씨) - 페이지 이동",
+			"album": "WE NEED LOVE - 페이지 이동"
+		},
+		{
+			"id": 35145136,
+			"rank": 68,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/55/743/10955743_20220516141152_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "팡파레 재생",
+			"artist": "다비치 - 페이지 이동",
+			"album": "Season Note - 페이지 이동"
+		},
+		{
+			"id": 33507137,
+			"rank": 69,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/12/483/10612483_20210521111412_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Butter 재생",
+			"artist": "방탄소년단 - 페이지 이동",
+			"album": "Butter - 페이지 이동"
+		},
+		{
+			"id": 32698101,
+			"rank": 70,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/104/47/520/10447520_20200619123343_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "OHAYO MY NIGHT 재생",
+			"artist": "디핵 (D-Hack) - 페이지 이동",
+			"album": "OHAYO MY NIGHT - 페이지 이동"
+		},
+		{
+			"id": 35272060,
+			"rank": 71,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/79/636/10979636_20220609175418_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Yet To Come 재생",
+			"artist": "방탄소년단 - 페이지 이동",
+			"album": "Proof - 페이지 이동"
+		},
+		{
+			"id": 35223429,
+			"rank": 72,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/22/231/10922231_20220527120653_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "HOT 재생",
+			"artist": "세븐틴 - 페이지 이동",
+			"album": "SEVENTEEN 4th Album 'Face the Sun' - 페이지 이동"
+		},
+		{
+			"id": 34599917,
+			"rank": 73,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/108/57/681/10857681_20220204162442_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "언제나 사랑해 재생",
+			"artist": "케이시 (Kassy) - 페이지 이동",
+			"album": "조영수 리메이크 프로젝트 Part.2 - 페이지 이동"
+		},
+		{
+			"id": 34101563,
+			"rank": 74,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/43/453/10743453_20211018165252_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "strawberry moon 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "strawberry moon - 페이지 이동"
+		},
+		{
+			"id": 33359309,
+			"rank": 75,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/105/80/103/10580103_20211008114642_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Off My Face 재생",
+			"artist": "Justin Bieber - 페이지 이동",
+			"album": "Justice (The Complete Edition) - 페이지 이동"
+		},
+		{
+			"id": 35008525,
+			"rank": 76,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "무지개 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 35506817,
+			"rank": 77,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/23/839/11023839_20220805160725_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "눈을 감으면 재생",
+			"artist": "WSG워너비 - 페이지 이동",
+			"album": "눈을 감으면 - 페이지 이동"
+		},
+		{
+			"id": 34298499,
+			"rank": 78,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/84/974/10784974_20211119152051_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "리무진 (Feat. MINO) (Prod. GRAY) 재생",
+			"artist": "BE'O (비오) - 페이지 이동",
+			"album": "쇼미더머니 10 Episode 3 - 페이지 이동"
+		},
+		{
+			"id": 35453293,
+			"rank": 79,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/11/391/11011391_20220721151316_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사랑이야 재생",
+			"artist": "케이시 (Kassy) - 페이지 이동",
+			"album": "사랑이야 - 페이지 이동"
+		},
+		{
+			"id": 35389041,
+			"rank": 80,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/01/072/11001072_20220727122138_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Sparkling 재생",
+			"artist": "청하 - 페이지 이동",
+			"album": "Bare\u0026Rare Pt.1 - 페이지 이동"
+		},
+		{
+			"id": 33666269,
+			"rank": 81,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/48/182/10648182_20210709104950_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Permission to Dance 재생",
+			"artist": "방탄소년단 - 페이지 이동",
+			"album": "Butter / Permission to Dance - 페이지 이동"
+		},
+		{
+			"id": 35126568,
+			"rank": 82,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/54/134/10954134_20220513160759_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "미친 것처럼 재생",
+			"artist": "V.O.S - 페이지 이동",
+			"album": "아픔을 말하는 - 페이지 이동"
+		},
+		{
+			"id": 33239419,
+			"rank": 83,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Celebrity 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "IU 5th Album 'LILAC' - 페이지 이동"
+		},
+		{
+			"id": 35255652,
+			"rank": 84,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/76/036/10976036_20220607154341_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "그 하루(feat.반하나) 재생",
+			"artist": "주호 - 페이지 이동",
+			"album": "그 하루 - 페이지 이동"
+		},
+		{
+			"id": 30244931,
+			"rank": 85,
+			"albumImg": "https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "봄날 재생",
+			"artist": "방탄소년단 - 페이지 이동",
+			"album": "YOU NEVER WALK ALONE - 페이지 이동"
+		},
+		{
+			"id": 30287019,
+			"rank": 86,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "롤린 (Rollin') 재생",
+			"artist": "브레이브걸스 - 페이지 이동",
+			"album": "Rollin' - 페이지 이동"
+		},
+		{
+			"id": 35380366,
+			"rank": 87,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/99/428/10999428_20220718113528_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "_WORLD 재생",
+			"artist": "세븐틴 - 페이지 이동",
+			"album": "SEVENTEEN 4th Album Repackage ‘SECTOR 17' - 페이지 이동"
+		},
+		{
+			"id": 4276080,
+			"rank": 88,
+			"albumImg": "https://cdnimg.melon.co.kr/cm/album/images/022/10/557/2210557_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "스물다섯, 스물하나 재생",
+			"artist": "자우림 - 페이지 이동",
+			"album": "Goodbye, grief. - 페이지 이동"
+		},
+		{
+			"id": 33372781,
+			"rank": 89,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "라일락 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "IU 5th Album 'LILAC' - 페이지 이동"
+		},
+		{
+			"id": 35008527,
+			"rank": 90,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "아버지 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 33998510,
+			"rank": 91,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/20/913/10720913_20210923173742_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "My Universe 재생",
+			"artist": "Coldplay - 페이지 이동",
+			"album": "My Universe - 페이지 이동"
+		},
+		{
+			"id": 35008528,
+			"rank": 92,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "A bientot 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 34943241,
+			"rank": 93,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/29/466/10929466_20220422145303_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "With you 재생",
+			"artist": "지민 - 페이지 이동",
+			"album": "우리들의 블루스 OST Part 4 - 페이지 이동"
+		},
+		{
+			"id": 34883833,
+			"rank": 94,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/18/269/10918269_20220413101153_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "ZOOM 재생",
+			"artist": "제시 (Jessi) - 페이지 이동",
+			"album": "ZOOM - 페이지 이동"
+		},
+		{
+			"id": 33448767,
+			"rank": 95,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/106/01/149/10601149_20210430171555_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "문득 재생",
+			"artist": "BE'O (비오) - 페이지 이동",
+			"album": "Bipolar - 페이지 이동"
+		},
+		{
+			"id": 34041584,
+			"rank": 96,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/107/31/792/10731792_20211005145407_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Savage 재생",
+			"artist": "aespa - 페이지 이동",
+			"album": "Savage - The 1st Mini Album - 페이지 이동"
+		},
+		{
+			"id": 35391594,
+			"rank": 97,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/110/01/347/11001347_20220711164254_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "스티커 사진 재생",
+			"artist": "21학번 - 페이지 이동",
+			"album": "스티커 사진 - 페이지 이동"
+		},
+		{
+			"id": 35008526,
+			"rank": 98,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "손이 참 곱던 그대 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 35008531,
+			"rank": 99,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "사랑해 진짜 재생",
+			"artist": "임영웅 - 페이지 이동",
+			"album": "IM HERO - 페이지 이동"
+		},
+		{
+			"id": 32183386,
+			"rank": 100,
+			"albumImg": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize",
+			"title": "Blueming 재생",
+			"artist": "아이유 - 페이지 이동",
+			"album": "Love poem - 페이지 이동"
+		}
+	]
+}
